@@ -1,0 +1,4 @@
+(1) - Flask, redirect, url_for, render_template, request, g
+(2) - sqlite methods: connect_db, get_db, close_db
+
+
